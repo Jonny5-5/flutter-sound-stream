@@ -3,11 +3,12 @@
 \- With changes by Jonathan de Gaston.  Fixing bugs and catering to my needs.
 
 * To use this version of the flutter "sound_stream" plugin, use the following line in your pubspec.yaml file
+```
 dependencies:
   flutter_sound_stream:
     git:
       url: https://github.com/Jonny5-5/flutter-sound-stream.git
-
+```
 
 _This plugin is still in early development stage_
 
