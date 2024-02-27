@@ -1,5 +1,7 @@
 # sound_stream
 
+\- With changes by Jonathan de Gaston.  Fixing bugs and catering to my needs.
+
 _This plugin is still in early development stage_
 
 A Flutter plugin started from my own needs: Stream audio data from Mic and data to Audio engine without using a file. We can use it to stream audio via network or use it with STT/TTS functions.
