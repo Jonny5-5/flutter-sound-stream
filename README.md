@@ -5,7 +5,7 @@
 * To use this version of the flutter "sound_stream" plugin, use the following line in your pubspec.yaml file
 ```
 dependencies:
-  flutter_sound_stream:
+  sound_stream:
     git:
       url: https://github.com/Jonny5-5/flutter-sound-stream.git
 ```
