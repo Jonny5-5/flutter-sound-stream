@@ -128,8 +128,8 @@ public class SoundStreamPlugin : FlutterPlugin,
 
     override fun onDetachedFromEngine(@NonNull binding: FlutterPlugin.FlutterPluginBinding) {
         methodChannel.setMethodCallHandler(null)
-        mListener?.onMarkerReached(null)
-        mListener?.onPeriodicNotification(null)
+        //mListener?.onMarkerReached(null)
+        //mListener?.onPeriodicNotification(null)
         mListener = null
         mRecorder?.stop()
         mRecorder?.release()
